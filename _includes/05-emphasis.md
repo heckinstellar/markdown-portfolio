@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Skills**
+- Copyediting 📝
+  - *and writing*
+- MS Office Suite
+- Windows and Mac
+- Blah Blah Blee
+
